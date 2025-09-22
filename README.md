@@ -7,7 +7,7 @@ Based on previous Perl Script: https://github.com/defensahacker/URLSUCKER
 ```
 make
 ```
-Add `dist/js-urlsucker-montoya.jar` in Burpsuite Professional with Extensions -> Add browse the previously `js-urlsucker-montoya.jar` compiled file and select. Done. There will appear a new tab called "URLSucker" where you can see the results.
+Add `dist/js-urlsucker-montoya.jar` in Burpsuite Professional with Extensions -> Add, browse the previously `js-urlsucker-montoya.jar` compiled file and select. Done. There will appear a new tab called "URLSucker" where you can see the results.
 
 
 
